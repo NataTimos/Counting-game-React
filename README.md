@@ -1,5 +1,8 @@
 # Counting-game-React
-Simple playing game on React
+
+Simple counting game using React, JSX, babel
+
+Html, CSS, JS in the one file
 
 ## Link to the GitPage of Counting gaame :) [Counting](https://natatimos.github.io/Counting-game-React/)
 
