@@ -90,6 +90,7 @@
                 return (
                     <div>
                         <h1 class="alert " id="game-title">Counting game</h1>
+                        <h3>Reach the score 10!</h3>
                         <div className={state.incorrect ? "incorrect" : ""} id="problem"> {state.num1}+{state.num2} </div>
                         <input class="shadow" autoFocus={true} onKeyPress={inputKeyPress} onChange={updateResponse} value={state.response} />
                         
